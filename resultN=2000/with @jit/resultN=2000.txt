@@ -1,0 +1,5 @@
+N =2000 time work =0.0h 0.0m 18.2sec delta_t = 1e-08
+N =2000 time work =0.0h 0.0m 16.7sec delta_t = 1e-07
+N =2000 time work =0.0h 0.0m 17.5sec delta_t = 1e-06
+N =2000 time work =0.0h 0.0m 16.8sec delta_t = 1e-05
+N =2000 time work =0.0h 0.0m 16.6sec delta_t = 0.0001

@@ -1,0 +1,5 @@
+N =100 time work =0.0h 9.0m 4.7sec delta_t = 1e-08
+N =100 time work =0.0h 8.0m 47.6sec delta_t = 1e-07
+N =100 time work =0.0h 8.0m 17.0sec delta_t = 1e-06
+N =100 time work =0.0h 7.0m 54.9sec delta_t = 1e-05
+N =100 time work =0.0h 7.0m 55.4sec delta_t = 0.0001

@@ -1,0 +1,5 @@
+N= 4 time work=0.0h 0.0m 6.0sec delta_t= 1e-08
+N= 4 time work=0.0h 0.0m 3.3sec delta_t= 1e-07
+N= 4 time work=0.0h 0.0m 3.3sec delta_t= 1e-06
+N= 4 time work=0.0h 0.0m 3.4sec delta_t= 1e-05
+N= 4 time work=0.0h 0.0m 3.1sec delta_t= 0.0001

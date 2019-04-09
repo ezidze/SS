@@ -1,0 +1,5 @@
+N =400 time work =0.0h 35.0m 16.3sec delta_t = 1e-08
+N =400 time work =0.0h 35.0m 52.0sec delta_t = 1e-07
+N =400 time work =0.0h 28.0m 32.9sec delta_t = 1e-06
+N =400 time work =0.0h 27.0m 14.9sec delta_t = 1e-05
+N =400 time work =0.0h 26.0m 27.7sec delta_t = 0.0001
